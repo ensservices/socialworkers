@@ -8,7 +8,7 @@ var __export = (target, all) => {
 import fs from "node:fs";
 import path from "node:path";
 import express2 from "express";
-
+import "dotenv/config";
 // server/app.ts
 import express from "express";
 
