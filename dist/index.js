@@ -5,6 +5,7 @@ var __export = (target, all) => {
 };
 
 // server/index-prod.ts
+import "dotenv/config";
 import fs from "node:fs";
 import path from "node:path";
 import express2 from "express";
